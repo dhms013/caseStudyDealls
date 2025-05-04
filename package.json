@@ -17,7 +17,7 @@
     "url": "https://github.com/dhms013/caseStudyDealls/issues"
   },
   "homepage": "https://github.com/dhms013/caseStudyDealls#readme",
-  "dependencies": {
-    "cypress": "^13.17.0"
+  "devDependencies": {
+    "cypress": "^14.3.2"
   }
 }

@@ -5,7 +5,8 @@ module.exports = defineConfig({
     baseUrl: 'https://job-portal-user-dev-skx7zw44dq-et.a.run.app', 
     supportFile: false,
     setupNodeEvents(on, config) {
-      // implement node event listeners here
     },
+    viewportWidth: 1920,
+    viewportHeight: 1080,
   },
 });
