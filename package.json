@@ -1,0 +1,23 @@
+{
+  "name": "casestudydealls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhms013/caseStudyDealls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhms013/caseStudyDealls/issues"
+  },
+  "homepage": "https://github.com/dhms013/caseStudyDealls#readme",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
